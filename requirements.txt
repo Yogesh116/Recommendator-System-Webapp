@@ -12,4 +12,3 @@ scikit-learn==0.19.0
 six==1.11.0
 sklearn==0.0
 Werkzeug==0.15.3
-MarkupSafe==1.0
