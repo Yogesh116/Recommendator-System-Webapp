@@ -1,3 +1,4 @@
+Python==3.6
 certifi==2017.7.27.1
 click==6.7
 Flask==1.0
@@ -12,3 +13,4 @@ scikit-learn==0.19.0
 six==1.11.0
 sklearn==0.0
 Werkzeug==0.15.3
+MarkupSafe==1.0
